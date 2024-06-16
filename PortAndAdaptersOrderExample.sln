@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortsAndAdapters.Application", "PortsAndAdapters.Application\PortsAndAdapters.Application.csproj", "{928381F4-B24B-4E58-894C-6F4E1E3576ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortsAndAdapters.Infrastructure", "PortsAndAdapters.Infrastructure\PortsAndAdapters.Infrastructure.csproj", "{F7E0564A-2646-4056-85F9-EE018B7BA2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortsAndAdapters.Api", "PortsAndAdapters.Api\PortsAndAdapters.Api.csproj", "{6DFEE337-BFDA-4222-995B-9DC1A49515FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928381F4-B24B-4E58-894C-6F4E1E3576ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928381F4-B24B-4E58-894C-6F4E1E3576ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928381F4-B24B-4E58-894C-6F4E1E3576ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928381F4-B24B-4E58-894C-6F4E1E3576ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E0564A-2646-4056-85F9-EE018B7BA2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E0564A-2646-4056-85F9-EE018B7BA2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E0564A-2646-4056-85F9-EE018B7BA2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E0564A-2646-4056-85F9-EE018B7BA2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFEE337-BFDA-4222-995B-9DC1A49515FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFEE337-BFDA-4222-995B-9DC1A49515FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFEE337-BFDA-4222-995B-9DC1A49515FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFEE337-BFDA-4222-995B-9DC1A49515FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
